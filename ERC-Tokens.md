@@ -25,7 +25,7 @@ contract MyERC20Token is ERC20 {
     }
 }
 ```
-# Sample ERC-721 Token Code
+### Sample ERC-721 Token Code
 ```solidity
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
@@ -47,7 +47,7 @@ contract MyNFT is ERC721 {
     }
 }
 ```
-# ERC-1155 Tokens: Multi-Asset Tokens
+### ERC-1155 Tokens: Multi-Asset Tokens
 ```solidity
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
