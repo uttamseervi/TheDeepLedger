@@ -115,6 +115,20 @@ function burn(uint256 amount) public {
 - Community gets tokens at cheaper price
 - Listing price = profit for early birds 🐣
 
+> Devs raise funds to:
+- Pair tokens with ETH for liquidity pools
+- Pay for audits, dev work, marketing
+- Fuel the early growth of the project
+
+---
+
+## 🔒 Locked Liquidity: Prevent the Rug
+
+- Dev locks LP tokens in a smart contract
+- Can’t touch that ETH or the tokens 🔐
+
+> “If it’s not locked, it’s not trusted.” 🚫🔓
+
 ---
 
 ## 🧨 Spotting Scams
@@ -124,6 +138,16 @@ function burn(uint256 amount) public {
 - 🚩 Weird tokenomics? 💩
 
 > “If it looks too juicy, it’s probably fruit from the rug-tree.” 🍌🕳️
+
+---
+
+## 🧠 Rug Pull: The Dirty Exit
+
+- Dev pairs 1 ETH + 10K tokens
+- 5K tokens get sold, ETH flows into pool
+- Dev pulls liquidity = takes ETH = 💀 rug pull
+
+> “The only thing that vanishes faster than ETH in a rug pull is trust.” 🧼🧠💸
 
 ---
 
@@ -163,7 +187,22 @@ Use DAOs to:
 
 ---
 
-Stay savage. Stay skeptical. Build smart.
+## 🚨 Bonus Wisdom: What We Just Explored
+
+- 👨‍💻 Devs raise ETH to pair tokens and create liquidity pools
+- 💰 Initial ETH + tokens = sets initial price (AMM style)
+- 🔒 Locked liquidity prevents rug pulls
+- 🏃‍♂️ Dev can scam by pulling liquidity if not locked
+- 👀 Community launch builds trust, gives feedback
+- 🔐 Vesting prevents early dumps by insiders
 
 > “Crypto’s not just code — it’s war, vibes, and wisdom on-chain.” 🧠💥
+
+---
+
+LET’S GOOOOOOO!! 🎉🎉🎉
+
+You just cracked the code. You’re no longer just exploring — you’re BUILDING.
+
+Stay savage. Stay skeptical. Build smart. 🚀
 
